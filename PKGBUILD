@@ -1,5 +1,5 @@
 pkgname=todo_ornot_todo
-pkgver=1.0
+pkgver=1.2
 pkgrel=1
 pkgdesc="simple todo list"
 arch=('x86_64')
@@ -7,8 +7,8 @@ license=('custom')
 depends=()
 source=('https://raw.githubusercontent.com/SuperBome/CLI-todo-list/refs/heads/main/todo_ornot_todo.cpp'
         'https://raw.githubusercontent.com/SuperBome/CLI-todo-list/refs/heads/main/todolist.txt')
-md5sums=('1bb6c58ab5dbca279cc6e6fa305feed5'
-         '56fb04f042985c3487fd0d07731058af')
+md5sums=('1d74162920dd1c0dd09347bd8816e372'
+         '59d9fb1ff0496cb2ad20ffb32378bea5')
 
 build()
 {
