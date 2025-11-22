@@ -1,0 +1,12 @@
+pkgbase = todo_ornot_todo
+	pkgdesc = simple todo list
+	pkgver = 1.0
+	pkgrel = 1
+	arch = x86_64
+	license = custom
+	source = https://raw.githubusercontent.com/SuperBome/CLI-todo-list/refs/heads/main/todo_ornot_todo.cpp
+	source = https://raw.githubusercontent.com/SuperBome/CLI-todo-list/refs/heads/main/todolist.txt
+	md5sums = 1bb6c58ab5dbca279cc6e6fa305feed5
+	md5sums = 56fb04f042985c3487fd0d07731058af
+
+pkgname = todo_ornot_todo
